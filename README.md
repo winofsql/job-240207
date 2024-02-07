@@ -52,6 +52,7 @@
 
 
 ## Windows11 の右クリックで Windows10 のポップアップメニューを表示する
+![image](https://github.com/winofsql/job-240207/assets/1501327/b1816c8c-7fee-427f-951e-658ec2b7dbbd)
 - ### 設定 ( 🔴 プログラマ的には運用上こちらである必要があります )
   ```reg
   reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f 
@@ -60,7 +61,6 @@
 - 実行後エクスプローラ再起動
   ![image](https://github.com/winofsql/job-240207/assets/1501327/cdee5bc9-b139-4178-8b7d-5ccd60b921ce)
 
-  ![image](https://github.com/winofsql/job-240207/assets/1501327/b1816c8c-7fee-427f-951e-658ec2b7dbbd)
 
 - ### 元に戻す
   ```reg
