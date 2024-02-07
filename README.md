@@ -63,8 +63,8 @@
   ![image](https://github.com/winofsql/job-240207/assets/1501327/b1816c8c-7fee-427f-951e-658ec2b7dbbd)
 
 - ### 元に戻す
-```reg
-reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f 
-```
+  ```reg
+  reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f 
+  ```
   ![image](https://github.com/winofsql/job-240207/assets/1501327/3dd3a09b-f56b-4393-8fc5-3a5c97305336)
 
