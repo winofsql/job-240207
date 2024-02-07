@@ -75,10 +75,11 @@
   この状態からは、その他のオプションで Windows10 のポップアップメニューが表示されます
 
 
-- ### Windows11 のタスクバーメニューの左寄せと右端でデスクトップ表示
+- ### Windows11 のタスクバーメニューの左寄せ
   ```
   reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarAl" /t REG_DWORD /d 0 /f
   ```
+- ### Windows11 のタスクバーメニューの右端でデスクトップ表示
   ```
   reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarSd" /t REG_DWORD /d 1 /f
   ```
