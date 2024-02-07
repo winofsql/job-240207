@@ -44,3 +44,5 @@
 
 ## HPの保護マークのついたファイル の保護の解除
   ![image](https://github.com/winofsql/log-240207/assets/1501327/6c2f01f8-25f8-49ee-8128-dd9bdf777139)
+
+  - 保護のついたままこの PDF をダブルクリックすると、本来の Chrome が実行されずに HP 内の特殊 Chrome が起動します
