@@ -51,8 +51,8 @@
     ![image](https://github.com/winofsql/log-240207/assets/1501327/8f05e679-04d1-4fce-b026-032050415f03)
 
 
-## Windows11 の右クリックで Windows10 のポップアップメニューを表示する
-  - 🔴 プログラマ的には運用上こちらである必要があります\
+## Windows11 の右クリックで Windows10 のポップアップメニューを表示する ( ポップアップメニューのショートカットは SHIFT + F10 )
+  - 🔴 プログラマ的には運用上こちらである必要があります( 管理がすぐに実行できる )\
   ![image](https://github.com/winofsql/job-240207/assets/1501327/b1816c8c-7fee-427f-951e-658ec2b7dbbd)
 - ### 設定
   ```reg
@@ -69,3 +69,4 @@
   ```
   ![image](https://github.com/winofsql/job-240207/assets/1501327/3dd3a09b-f56b-4393-8fc5-3a5c97305336)
 
+  この状態からは、その他のオプションで Windows10 のポップアップメニューが表示されます
