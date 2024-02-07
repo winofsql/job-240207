@@ -50,7 +50,7 @@
 
     ![image](https://github.com/winofsql/log-240207/assets/1501327/8f05e679-04d1-4fce-b026-032050415f03)
 
-  - ## 🌉 HP の WallPapaer の場所
+  - ## 🌉 HP の Wallpapaer の場所
     - C:\Windows\Web\Wallpaper\HP
 
 ## Windows11 の右クリックで Windows10 のポップアップメニューを表示する 
