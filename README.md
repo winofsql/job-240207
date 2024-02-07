@@ -18,3 +18,13 @@
 | TranslateEnabled                 | dword:00000001  | ページの翻訳を有効にする                                      |
 | BrowserAddPersonEnabled          | dword:00000000  | ブラウザにユーザーを追加する機能を無効にする                  |
 | NTPCustomBackgroundEnabled       | dword:00000000  | 新しいタブページのカスタム背景を無効にする                    |
+
+### 以下は Chrome を閉じた時にログアウトする URL の一覧です
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\CookiesSessionOnlyForUrls]
+"1"="[*.]google.com"
+"2"="github.com"
+"3"="replit.com"
+"4"="[*.]lolipop.jp"
+"5"="paiza.jp"
+"6"="[*.]zoom.us"
+"7"="twitter.com"
