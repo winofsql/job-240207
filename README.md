@@ -23,6 +23,9 @@
   - [GPT4 で実行するとこうなります](https://chat.openai.com/share/b84c0f93-3df5-4a38-bd7b-e7f6ba719049)
     - HomepageIsNewTabPage がきちんと説明されました
 - 🔴 この内容は chrome://policy/ で参照できます
+  ```
+  chrome://policy/
+  ```
 
 - ### 以下は Chrome を閉じた時にログアウトする URL の一覧です
   ```
