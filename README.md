@@ -58,7 +58,7 @@
   ```
 
 - 実行後エクスプローラ再起動
-  -  ![image](https://github.com/winofsql/job-240207/assets/1501327/cdee5bc9-b139-4178-8b7d-5ccd60b921ce)
+  ![image](https://github.com/winofsql/job-240207/assets/1501327/cdee5bc9-b139-4178-8b7d-5ccd60b921ce)
 
 
 - ### 元に戻す
