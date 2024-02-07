@@ -60,6 +60,7 @@
 - 実行後エクスプローラ再起動
   ![image](https://github.com/winofsql/job-240207/assets/1501327/cdee5bc9-b139-4178-8b7d-5ccd60b921ce)
 
+  ![image](https://github.com/winofsql/job-240207/assets/1501327/b1816c8c-7fee-427f-951e-658ec2b7dbbd)
 
 - ### 元に戻す
 ```reg
