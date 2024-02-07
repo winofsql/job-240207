@@ -87,3 +87,8 @@
   ![image](https://github.com/winofsql/subject-windows11/assets/1501327/6002978d-7c30-4019-86d8-9084ef12d03b)
   
   ![image](https://github.com/winofsql/subject-windows11/assets/1501327/8bb8e170-46e7-43af-8619-9e6630f86683)
+
+  - システム開発の UI の配置は、『中央』というものをめったに使いません
+  - 基本的には文字列は左寄せで、数値は右寄せです。
+  - これはデザイン的なものでは無く、短時間で情報を読み取る為に UI における情報位置を視野で最速で早く読み取る為に端である必要があります
+  
