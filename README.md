@@ -51,8 +51,9 @@
     ![image](https://github.com/winofsql/log-240207/assets/1501327/8f05e679-04d1-4fce-b026-032050415f03)
 
 
-## Windows11 の右クリックで Windows10 のポップアップメニューを表示する ( ポップアップメニューのショートカットは SHIFT + F10 )
-  - 🔴 プログラマ的には運用上こちらである必要があります( 管理がすぐに実行できる )\
+## Windows11 の右クリックで Windows10 のポップアップメニューを表示する 
+  - 🔴 プログラマ的には運用上こちらである必要があります( 管理がすぐに実行できる )
+  - ポップアップメニューのショートカットは SHIFT + F10\
   ![image](https://github.com/winofsql/job-240207/assets/1501327/b1816c8c-7fee-427f-951e-658ec2b7dbbd)
 - ### 設定
   ```reg
