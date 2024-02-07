@@ -48,3 +48,5 @@
   - 保護のついたままこの PDF をダブルクリックすると、本来の Chrome が実行されずに HP 内の特殊 Chrome が起動します
     ![image](https://github.com/winofsql/log-240207/assets/1501327/9d41e020-356f-4f43-b81e-a62f62522fe6)
 
+    ![image](https://github.com/winofsql/log-240207/assets/1501327/8f05e679-04d1-4fce-b026-032050415f03)
+
