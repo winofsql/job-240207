@@ -20,6 +20,7 @@
 | NTPCustomBackgroundEnabled       | dword:00000000  | 新しいタブページのカスタム背景を無効にする                    |
 
 ### 以下は Chrome を閉じた時にログアウトする URL の一覧です
+```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\CookiesSessionOnlyForUrls]
 "1"="[*.]google.com"
 "2"="github.com"
@@ -28,3 +29,4 @@
 "5"="paiza.jp"
 "6"="[*.]zoom.us"
 "7"="twitter.com"
+```
