@@ -20,6 +20,8 @@
   | NTPCustomBackgroundEnabled       | dword:00000000  | 新しいタブページのカスタム背景を無効にする                    |
 
 - 🔼 [この内容は ChatGPT3.5 が作成しました](https://chat.openai.com/share/72f5d2e4-8738-465c-9ce3-32b17ccbb984)
+  - [GPT4 で実行するとこうなります](https://chat.openai.com/share/b84c0f93-3df5-4a38-bd7b-e7f6ba719049)
+    - HomepageIsNewTabPage がきちんと説明されました
 
 - ### 以下は Chrome を閉じた時にログアウトする URL の一覧です
   ```
