@@ -19,8 +19,7 @@
   | BrowserAddPersonEnabled          | dword:00000000  | ブラウザにユーザーを追加する機能を無効にする                  |
   | NTPCustomBackgroundEnabled       | dword:00000000  | 新しいタブページのカスタム背景を無効にする                    |
 
-- この内容は ChatGPT4 が作成しました
-  https://chat.openai.com/share/72f5d2e4-8738-465c-9ce3-32b17ccbb984
+- [この内容は ChatGPT4 が作成しました](https://chat.openai.com/share/72f5d2e4-8738-465c-9ce3-32b17ccbb984)
 
 - ### 以下は Chrome を閉じた時にログアウトする URL の一覧です
   ```
