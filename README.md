@@ -27,6 +27,9 @@
   chrome://policy/
   ```
 
+  ![image](https://github.com/winofsql/log-240207/assets/1501327/37f4414e-1494-44ba-b9e1-45291d96f4a2)
+
+
 - ### 以下は Chrome を閉じた時にログアウトする URL の一覧です
   ```
   [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\CookiesSessionOnlyForUrls]
